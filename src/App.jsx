@@ -23,7 +23,7 @@ import About from "./componet/About/About.jsx";
 const BannerData = {
   discount: "30% OFF",
   title: "Fine Smile",
-  date: "10 Oct to 28 Oct",
+  date: "10 Dec to 28 Dec",
   image: headphone,
   title2: "Air solo Bass",
   title3: "Winter Sale",
@@ -33,7 +33,7 @@ const BannerData = {
 const BannerData2 = {
   discount: "30% OFF",
   title: "Happy Hours",
-  date: "10 Oct to 28 Oct",
+  date: "10 Dec to 28 Dec",
   image: smartwatch2,
   title2: "Smart Solo",
   title3: "Winter Sale",
